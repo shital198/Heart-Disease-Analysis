@@ -11,6 +11,6 @@ Study the person do have/have not had heart disease.
 4. Data Processing
 5. Model Devlopment
 # Tools and technology:
-Paython
+Python
 
 
